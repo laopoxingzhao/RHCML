@@ -1,0 +1,4 @@
+# 忽略所有 target 文件夹
+/.git
+/target
+**/target

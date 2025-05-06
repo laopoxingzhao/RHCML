@@ -1,0 +1,4 @@
+{ 
+    "client_id" : "00fa7ee8-8469-45e4-a4d0-f4b43a4127aa",
+    "client_secret" : "5vl8Q~Loa0f7XKNZY591WNozCqOEhLRG2enxhbsU"
+}

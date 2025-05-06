@@ -1,0 +1,15 @@
+[package]
+name = "RHMCL"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+axum = "0.8.3"
+once_cell = "1.21.3"
+reqwest = "0.12.15"
+serde = "1.0.219"
+serde_json = "1.0.140"
+tokio = { version = "1.44.2", features = ["full"] }
+urlencoding = "2.1.3"
+webbrowser = "1.0.4"
+McDownloader = {version = "0.1.0",path = "./McDownloader" }
